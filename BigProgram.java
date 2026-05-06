@@ -1,7 +1,7 @@
 public class BigProgram {
 
     public static void main(String[] args) {
-        System.out.println("Starting Big Java Program...version 2");
+        System.out.println("Starting Big Java Program - VERSION 2 🚀");
 
         int sum = 0;
 
@@ -16,7 +16,7 @@ public class BigProgram {
         printPrimeNumbers(50);
 
         System.out.println("Final Sum: " + sum);
-        System.out.println("Program Completed!");
+        System.out.println("CI/CD test successful!");
     }
 
     public static void printFibonacci(int n) {
@@ -49,4 +49,5 @@ public class BigProgram {
         return true;
     }
 }
-System.out.println("CI/CD test successful!");
+
+
