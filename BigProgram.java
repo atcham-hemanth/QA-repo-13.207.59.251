@@ -1,7 +1,7 @@
 public class BigProgram {
 
     public static void main(String[] args) {
-        System.out.println("Starting Big Java Program...");
+        System.out.println("Starting Big Java Program...version 2");
 
         int sum = 0;
 
@@ -49,3 +49,4 @@ public class BigProgram {
         return true;
     }
 }
+System.out.println("CI/CD test successful!");
